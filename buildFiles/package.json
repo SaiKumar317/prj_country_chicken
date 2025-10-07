@@ -1,0 +1,17 @@
+{
+  "name": "country_chicken_server",
+  "version": "1.0.0",
+
+  "main": "index.js",
+  "scripts": {
+    "start": "(pm2 delete %npm_package_config_processName% || echo) && pm2 save --force && pm2 start C:\\inetpub\\wwwroot\\%npm_package_config_projectPath%\\main.js --name %npm_package_config_processName% && pm2 save --force && pm2 logs",
+    "restart": "pm2 start %npm_package_config_processName% && pm2 save --force",
+    "delete": "(pm2 delete %npm_package_config_processName% || echo) && pm2 save"
+  },
+  "config": {
+    "processName": "country_chicken",
+    "projectPath": "country_chicken\\online_sales_order\\"
+  },
+  "homepage": ".",
+  "author": ""
+}

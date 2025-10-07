@@ -1,0 +1,142 @@
+{
+    "userId": "8179198780",
+    "OrderId": "827482897217s",
+    "addressId": "JXhFzLCgJFo4fChleWcw",
+    "customerMobileNo": "8179198787410",
+    "customerName": "TESTIaNG",
+    "deliveryAddress": {
+        "addressId": "JXhFzLCgJFo4fChleWcw",
+        "userName": "TESTING",
+        "houseDetails": "testing",
+        "streetDetails": "ChandaNagar",
+        "landmark": "ChandaNagar",
+        "pincode": "500050",
+        "latLong": {
+            "lat": 17.4934113,
+            "lng": 78.32779479999999
+        }
+    },
+    "storeId": "qUcwFxk2V9ZYhJYWG36v",
+    "branch_id": "GB",
+    "storeDetails": {
+        "id": "qUcwFxk2V9ZYhJYWG36v",
+        "storeName": "Chandanagar",
+        "address": "Plot No 2, Country Chicken Co, 111/22 & 23, Manjeera Pipeline Rd, Engineers Enclave, Chanda Nagar",
+        "branchId": "BG",
+        "locCode": "WU4BJP89"
+    },
+    "timeSlotId": "oM6o7bP0IqZEvkXRTSj7",
+    "timeSlotDetails": {
+        "id": "oM6o7bP0IqZEvkXRTSj7",
+        "startTime": "17:30",
+        "endTime": "19:30",
+        "active": true
+    },
+    "products": [
+        {
+            "productId": "4gZkz7VCTW8YeY9LmXmx",
+            "name": "Tender Country Chicken",
+            "imageUrl": "https://storage.googleapis.com/countrychickenco.appspot.com/products/b500774b-2516-4f0e-9143-7948c5c5a1a7-1753682675813.png",
+            "quantity": 1,
+            "price": 749,
+            "variant": {
+                "weight": "1KG",
+                "weightValue": 1,
+                "sku": "4002",
+                "price": 699,
+                "sortOrder": 1,
+                "isActive": true,
+                "visibleToCustomer": true,
+                "id": "var_1753707632710_mjn07lm6b"
+            },
+            "customizations": {
+                "type_of_meat": {
+                    "id": "opt_1753682861251_7jehcdhtx",
+                    "sku": "WITHSKIN",
+                    "displayName": "Type of Meat",
+                    "optionName": "With Skin",
+                    "additionalPrice": 0
+                },
+                "flavour": {
+                    "id": "opt_1753682913175_n9bm3cjrt",
+                    "sku": "SMT",
+                    "displayName": "Flavour",
+                    "optionName": "Smoked & Turmeric",
+                    "additionalPrice": 15
+                },
+                "piece_cut_size": {
+                    "id": "opt_1753707598179_qs4rpibsd",
+                    "sku": "MCT",
+                    "displayName": "Piece Cut Size",
+                    "optionName": "Medium Cut",
+                    "additionalPrice": 0
+                },
+                "additional_customization": {
+                    "id": "opt_1753683258453_rfkf6a2yr",
+                    "sku": "NN",
+                    "displayName": "Additional Customization",
+                    "optionName": "No Neck",
+                    "additionalPrice": 9
+                }
+            }
+        },
+           {
+            "productId": "4gZkz7VCTW8YeY9LmXmx",
+            "name": "Tender Country Chicken",
+            "imageUrl": "https://storage.googleapis.com/countrychickenco.appspot.com/products/b500774b-2516-4f0e-9143-7948c5c5a1a7-1753682675813.png",
+            "quantity": 1,
+            "price": 749,
+            "variant": {
+                "weight": "1KG",
+                "weightValue": 1,
+                "sku": "4001",
+                "price": 699,
+                "sortOrder": 1,
+                "isActive": true,
+                "visibleToCustomer": true,
+                "id": "var_1753707632710_mjn07lm6b"
+            },
+            "customizations": {
+                "type_of_meat": {
+                    "id": "opt_1753682861251_7jehcdhtx",
+                    "sku": "WITHSKIN",
+                    "displayName": "Type of Meat",
+                    "optionName": "With Skin",
+                    "additionalPrice": 0
+                },
+                "flavour": {
+                    "id": "opt_1753682913175_n9bm3cjrt",
+                    "sku": "SMT",
+                    "displayName": "Flavour",
+                    "optionName": "Smoked & Turmeric",
+                    "additionalPrice": 15
+                },
+                "piece_cut_size": {
+                    "id": "opt_1753707598179_qs4rpibsd",
+                    "sku": "MCT",
+                    "displayName": "Piece Cut Size",
+                    "optionName": "Medium Cut",
+                    "additionalPrice": 0
+                },
+                "additional_customization": {
+                    "id": "opt_1753683258453_rfkf6a2yr",
+                    "sku": "NN",
+                    "displayName": "Additional Customization",
+                    "optionName": "No Neck",
+                    "additionalPrice": 9
+                }
+            }
+        }
+    ],
+    "subtotal": 723,
+    "shippingCost": 39,
+    "discount": 0,
+    "total": 762,
+    "appliedCoupon": null,
+    "instructions": null,
+    "deliveryDate": "2025-08-01",
+    "deliveryDateTimestamp": 1754047081156,
+    "status": "pending",
+    "orderType": "admin_created",
+    "createdBy": "super-admin"
+}
